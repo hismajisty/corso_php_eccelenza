@@ -75,6 +75,8 @@ class Animale{
 
 //iewobfiwvgewb
 
+//vbbbbbbbbbbbbbbbbbbbbbbbb
+
 $cane= new Animale();
 $cane->setNome("pluto");
 $cane->setSpecie("cane");
